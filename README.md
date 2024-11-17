@@ -73,9 +73,16 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
 
 ## My Snake Contribution Graph 🐍 
 
-
-<p align="center">
-  <h3 align="center"> 
-    <img src="https://github.com/tks18/tks18/raw/output/github-contribution-grid-snake.svg" alt="contribution graph">
-  </h3>
-</p>
+<source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
