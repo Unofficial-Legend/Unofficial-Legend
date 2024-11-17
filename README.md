@@ -9,22 +9,21 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
 ### 🌷𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🌷
 
 <!--
-**BadshahAk/BadshahAk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Unofficial-Legend/Unofficial-Legend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/BadshahAk/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Unofficial-Legend/count.svg" />
 </p>
 
 
 
 
  ## Information:
-![♥️](https://te.legra.ph/file/aa152c55875721cd90a98.jpg)
 ## Awards
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BadshahAk" alt="BadshahAk" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Unofficial-Legend" alt="Unofficial-Legend" /></a> </p>
 
 ##  🎶 **Currently Playing**
 [![Spotify](https://img.shields.io/badge/-Spotify-%232c3e50?style=flat-square&logo=spotify)](https://spotify.com)
@@ -69,8 +68,8 @@ Hey, I'm 〆 Anand ヅ ๛ Vindayak〆, a Web Developer 🚀, Back End Developer
 
 ## Stats:  
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BadshahAk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BadshahAk&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Unofficial-Legend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unofficial-Legend&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true">
 
 ## My Snake Contribution Graph 🐍 
 
